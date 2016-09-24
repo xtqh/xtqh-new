@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sqlManager>
+<!-- resource function -->
+	<property id="resourceList">
+		<cache>false</cache>
+		<desc>search resource list</desc>
+		<value>select distinct id, controlling_ip, name,resource_type,hostname from resource</value>
+	</property>
+</sqlManager>

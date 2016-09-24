@@ -1,0 +1,19 @@
+table
+{
+  border-collapse:collapse;
+}
+table,th,td
+{
+border:1px solid grey;
+padding:5px;
+}
+body
+{
+font-family: "微软雅黑", Helvetica, Arial, sans-serif;
+font-size: 12px;
+}
+th
+{
+background: #3c3c44;
+color: #fff;
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfigManager>
+	<!-- SQL manager file -->
+	<property id="sqlManager">
+		<value>sqlManager.xml</value>
+	</property>
+
+	<!-- Configration file -->
+	<property id="config">
+		<value>config.properties</value>
+	</property>
+	
+</ConfigManager>

@@ -1,0 +1,56 @@
+/*------------------------------------------------------------errorPage*/
+.errCot {
+	width:791px;
+	margin:0 auto;
+	color:#858585;
+	padding-top:120px;
+	_margin-left:25%;/*IE6*/
+}
+.errTit {
+	margin:0 auto;
+	width:300px;
+	_margin-left:30%;/*IE6*/
+}
+.errTit .errIcon403 {
+	height:94px;
+	width:78px;
+	background: url(../image/errorIcon.png) no-repeat -156px 0px;
+}
+.errTit .errIcon404 {
+	height:94px;
+	width:78px;
+	background: url(../image/errorIcon.png) no-repeat -78px 0px;
+}
+.errTit .errIcon500 {
+	height:94px;
+	width:78px;
+	background: url(../image/errorIcon.png) no-repeat;
+}
+.errTit .errTitTxt {
+	font-size:44px;
+	font-style:italic;
+	font-weight:bold;
+	line-height:44px;
+}
+.errCot .centLine {
+	width:791px;
+	height:56px;
+	background:url(../images/errorCnterLine.png) no-repeat;
+}
+.errCot .detailCon {
+	margin-left:250px;
+}
+.detailCon .explainTxt {
+	font-size:28px;
+	margin-bottom:20px;
+}
+.detailCon .detailTxt {
+	margin-bottom:20px;
+}
+.detailCon .detailTxt ul {
+	list-style-type:disc;
+	list-style-position:inside;
+}
+.errorLog {
+	margin-bottom:20px;
+}
